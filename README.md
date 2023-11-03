@@ -1,1 +1,3 @@
-# git-101
+# Git 101
+
+Repo for testing Git
